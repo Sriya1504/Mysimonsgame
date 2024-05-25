@@ -1,1 +1,1 @@
-# Mysimonsgame
+# simons-game
